@@ -1,11 +1,34 @@
 
-* {
-  background-color: aqua;
+body{
+  background-blend-mode: blue;
+  
+}
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
+
+h3{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
+
+h4{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
+
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+  background-color: blue;
+  color: chartreuse;
 }
 
 
-/* .jumbotron {
-  background: url('images/IMG_1321.jpg');
-  background-image: url('images/IMG_1321.jpg');
-  background-color: aquamarine;
-  } */
+.jumbotron {
+  background: url('images/IMG_1322.jpg');
+  font-display: auto;
+  }
