@@ -46,3 +46,9 @@ button {
     position: absolute;
     clear: both;
   }
+
+  .block{
+    position: relative;
+    clear: both;
+    bottom: 175px;
+  }
