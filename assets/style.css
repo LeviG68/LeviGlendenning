@@ -32,3 +32,12 @@ button {
   background: url('images/IMG_1322.jpg');
   font-display: auto;
   }
+
+  .image{
+    position: absolute;
+
+  }
+
+  /* .buttons{
+    position: relative;
+  } */
