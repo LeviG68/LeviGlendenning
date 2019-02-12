@@ -34,10 +34,15 @@ button {
   }
 
   .image{
-    position: absolute;
+    position: relative;
+    left: 750px;
+    bottom: 130px;
+    /* top: 100px; */
+    clear: both;
 
   }
 
-  /* .buttons{
-    position: relative;
-  } */
+  .buttons{
+    position: absolute;
+    clear: both;
+  }
