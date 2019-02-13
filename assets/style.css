@@ -18,9 +18,17 @@ h4{
   font-family: 'Permanent Marker', cursive;
   font-size: 20px;
 }
+mark{
+  background-color: coral;
+  text-decoration: underline;
+}
 
 p{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#focus{
+  font-family: 'Staatliches', cursive;
 }
 button {
   background-color: blue;
@@ -39,7 +47,6 @@ button {
     bottom: 130px;
     /* top: 100px; */
     clear: both;
-
   }
 
   .buttons{
@@ -51,4 +58,50 @@ button {
     position: relative;
     clear: both;
     bottom: 175px;
+  }
+
+  #javascript{
+    margin-right: 60px;
+  }
+  #reactjs{
+  margin-right: 70px; 
+  }
+  #jquery{
+    margin-right: 70px;
+  }
+  #nodejs{
+    margin-right: 70px;
+  }
+  #css3{
+    margin-right: 70px;
+  }
+  #bootstrap{
+    margin-right: 70px;
+  }
+  #materialize{
+    margin-right: 70px;
+  }
+  #sql{
+    margin-right: 70px;
+  }
+  #mongodb{
+    margin-right: 70px;
+  }
+  #express{
+    margin-right: 70px;
+  }
+  #firebase{
+    margin-right: 70px;
+  }
+  #heroku{
+    margin-right: 70px;
+  }
+  #lightroom{
+    margin-right: 70px;
+  }
+  #python{
+    margin-right: 70px;
+  }
+  #octocat{
+    margin-right: 70px;
   }
