@@ -22,6 +22,9 @@ mark{
   background-color: coral;
   text-decoration: underline;
 }
+#about{
+  font-size: 40px;
+}
 
 p{
   font-size: 25px;
@@ -59,7 +62,13 @@ button {
     clear: both;
     bottom: 175px;
   }
-
+  #projects{
+    font-size: 40px;
+    
+  }
+#skills{
+  font-size: 40px;
+}
   #javascript{
     margin-right: 60px;
   }
@@ -104,4 +113,16 @@ button {
   }
   #octocat{
     margin-right: 70px;
+  }
+
+  #edu{
+    font-size: 40px;
+  }
+
+  .um{
+    font-size: 20px;
+  }
+
+  .ud{
+    font-size: 20px;
   }
