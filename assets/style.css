@@ -1,21 +1,25 @@
 
 body{
-  background-blend-mode: blue;
-  
+  background-blend-mode: blue; 
 }
 
 h1{
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Cinzel', serif;
   font-size: 20px;
 }
 
 h3{
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+
+#quote{
+  font-weight: bolder;
   font-size: 20px;
 }
 
 h4{
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Indie Flower', cursive;
   font-size: 20px;
 }
 mark{
@@ -24,11 +28,12 @@ mark{
 }
 #about{
   font-size: 40px;
+  background-color: aqua;
 }
 
 p{
   font-size: 25px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 #focus{
   font-family: 'Staatliches', cursive;
@@ -42,87 +47,101 @@ button {
 .jumbotron {
   background: url('images/IMG_1322.jpg');
   font-display: auto;
-  }
+}
 
-  .image{
+.image{
     position: relative;
     left: 750px;
     bottom: 130px;
     /* top: 100px; */
     clear: both;
-  }
+}
 
-  .buttons{
+.buttons{
     position: absolute;
     clear: both;
-  }
+}
 
-  .block{
+.block{
     position: relative;
     clear: both;
     bottom: 175px;
-  }
-  #projects{
+}
+
+#projects{
     font-size: 40px;
-    
-  }
+    background-color: aqua;
+    }
+  
 #skills{
   font-size: 40px;
+  background-color: aqua;
 }
-  #javascript{
+#javascript{
     margin-right: 60px;
-  }
+}
   #reactjs{
   margin-right: 70px; 
-  }
-  #jquery{
+}
+#jquery{
     margin-right: 70px;
-  }
-  #nodejs{
+}
+#nodejs{
     margin-right: 70px;
-  }
-  #css3{
+}
+#css3{
     margin-right: 70px;
-  }
-  #bootstrap{
+}
+#bootstrap{
     margin-right: 70px;
-  }
-  #materialize{
+}
+#materialize{
     margin-right: 70px;
-  }
-  #sql{
+}
+#sql{
     margin-right: 70px;
-  }
-  #mongodb{
+}
+#mongodb{
     margin-right: 70px;
-  }
-  #express{
+}
+#express{
     margin-right: 70px;
-  }
-  #firebase{
+}
+#firebase{
     margin-right: 70px;
-  }
-  #heroku{
+}
+#heroku{
     margin-right: 70px;
-  }
-  #lightroom{
+}
+#lightroom{
     margin-right: 70px;
-  }
-  #python{
+}
+#python{
     margin-right: 70px;
-  }
-  #octocat{
+}
+#octocat{
     margin-right: 70px;
-  }
+}
 
-  #edu{
+#edu{
     font-size: 40px;
-  }
+    background-color: aqua;
+}
 
-  .um{
-    font-size: 20px;
-  }
-
-  .ud{
-    font-size: 20px;
-  }
+.um {
+    color: maroon;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#umlogo{
+    border: 1px solid;
+}
+.ud{
+    color: crimson;
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
+}
+#dulogo{
+    border: 1px solid;
+}
+  
