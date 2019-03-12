@@ -126,7 +126,7 @@ button {
 #edu{
     font-size: 40px;
     background-color: aqua;
-    padding-bottom: 10px;
+    
 }
 
 .um {
@@ -144,5 +144,19 @@ button {
 }
 #dulogo{
     border: 1px solid;
+}
+
+#contact{
+  font-size: 40px;
+  background-color: aqua; 
+}
+#mail{
+  padding: 10px;
+}
+#linkedin{
+  padding: 10px;
+}
+#github{
+  padding:10px;
 }
   
