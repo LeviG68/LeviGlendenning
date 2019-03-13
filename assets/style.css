@@ -22,13 +22,23 @@ h4{
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
 }
-mark{
-  background-color: coral;
-  text-decoration: underline;
+#highlight{
+  font-style: italic; 
+   border-bottom: 1px solid black;
+   display: inline-block;
+   line-height: 0.85;
+   text-shadow:
+     2px 2px white,
+     2px -2px white,
+     -2px 2px white,
+     -2px -2px white; 
 }
 #about{
   font-size: 40px;
-  background-color: aqua;
+  background: -webkit-linear-gradient(black, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid black;
 }
 
 p{
@@ -69,13 +79,19 @@ button {
 }
 
 #projects{
-    font-size: 40px;
-    background-color: aqua;
-    }
+  font-size: 40px;
+  background: -webkit-linear-gradient(black, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid black;
+}
   
 #skills{
   font-size: 40px;
-  background-color: aqua;
+  background: -webkit-linear-gradient(black, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid black;
 }
 #javascript{
     margin-right: 60px;
@@ -124,8 +140,11 @@ button {
 }
 
 #edu{
-    font-size: 40px;
-    background-color: aqua;
+  font-size: 40px;
+  background: -webkit-linear-gradient(black, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid black;
     
 }
 
@@ -148,7 +167,11 @@ button {
 
 #contact{
   font-size: 40px;
-  background-color: aqua; 
+  /* color: rgb(10, 10, 10); */
+  border-bottom: 2px solid black;
+  background: -webkit-linear-gradient(black, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 #mail{
   padding: 10px;
