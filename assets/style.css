@@ -1,6 +1,11 @@
 
+/* *{
+  border: 1px solid red;
+} */
+
 body{
   background-blend-mode: blue; 
+  border: 1px red;
 }
 
 h1{
@@ -33,6 +38,7 @@ h4{
      -2px 2px white,
      -2px -2px white; 
 }
+
 #about{
   font-size: 40px;
   background: -webkit-linear-gradient(black, #eee);
@@ -59,11 +65,11 @@ button {
   font-display: auto;
 }
 
-.image{
-    position: relative;
-    left: 750px;
-    bottom: 130px;
-    /* top: 100px; */
+#image{
+  position: relative;
+    left: 375px;
+    bottom: 150px;
+    /* top: 500px; */
     clear: both;
 }
 
@@ -182,4 +188,61 @@ button {
 #github{
   padding:10px;
 }
-  
+.thumbnail {
+  height: 455px;
+}
+ .thumbnail .btn {
+position: absolute;
+bottom: 40;
+}  
+
+ .thumbnail .btn-default {
+  position: absolute;
+  left: 130;
+}
+
+/* #navrow {
+  height: 100px;
+} */
+
+@media (max-width: 599px) 
+{ #image
+  {overflow: auto;
+    /* float: right; */
+    position: unset;
+  }
+.rownav
+  {clear: both;
+    position: unset;
+  }
+
+#about
+  {position: unset;
+  }
+
+.thumbnail .btn 
+{position: absolute;
+bottom: 10px;}
+
+body{
+width: 90%;
+}
+}
+
+@media (max-width: 1024px) {
+  #image {
+    float: right;
+    display: inline-block;
+    position: unset;
+    flex-wrap: wrap;
+    width: 60%;
+  }
+  #navrow{ 
+    float: left;
+    display: inline-block;
+    position: unset;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+}
