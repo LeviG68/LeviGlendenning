@@ -2,10 +2,28 @@
 /* *{
   border: 1px solid red;
 } */
-
 body{
-  background-blend-mode: blue; 
-  border: 1px red;
+  background-color: rgb(228, 237, 247);
+  background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+  background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+  background-image: -webkit-linear-gradient(rgb(117, 115, 115) 2px, transparent 2px),
+                    -webkit-linear-gradient(0, white 2px, transparent 2px),
+                    -webkit-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
+                    -webkit-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
+  background-image: -moz-linear-gradient(white 2px, transparent 2px),
+                    -moz-linear-gradient(0, white 2px, transparent 2px),
+                    -moz-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
+                    -moz-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
+  background-image: linear-gradient(white 2px, transparent 2px),
+                    linear-gradient(90deg, white 2px, transparent 2px),
+                    linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+  -pie-background: linear-gradient(white 2px, transparent 2px) -2px -2px / 100px,
+                   linear-gradient(90deg, white 2px, transparent 2px) -2px -2px / 100px,
+                   linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px) -1px -1px / 20px,
+                   linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px) -1px -1px / 20px,
+                   #269;
+  behavior: url(/pie/PIE.htc);
 }
 
 h1{
@@ -33,15 +51,13 @@ h4{
    display: inline-block;
    line-height: 0.85;
    text-shadow:
-     2px 2px white,
-     2px -2px white,
-     -2px 2px white,
-     -2px -2px white; 
+     2px 2px black,
+     2px -2px black:
 }
 
 #about{
   font-size: 40px;
-  background: -webkit-linear-gradient(black, #eee);
+  background: -webkit-linear-gradient(black,hsl(240, 1%, 64%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-bottom: 2px solid black;
@@ -50,6 +66,7 @@ h4{
 p{
   font-size: 25px;
   font-family: 'Indie Flower', cursive;
+  color: black;
 }
 #focus{
   font-family: 'Staatliches', cursive;
@@ -86,15 +103,18 @@ button {
 
 #projects{
   font-size: 40px;
-  background: -webkit-linear-gradient(black, #eee);
+  background: -webkit-linear-gradient(black,hsl(240, 1%, 64%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-bottom: 2px solid black;
 }
   
+.panel panel-default{
+  color: #a3a1a7;
+}
 #skills{
   font-size: 40px;
-  background: -webkit-linear-gradient(black, #eee);
+  background: -webkit-linear-gradient(black,hsl(240, 1%, 64%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-bottom: 2px solid black;
@@ -147,7 +167,7 @@ button {
 
 #edu{
   font-size: 40px;
-  background: -webkit-linear-gradient(black, #eee);
+  background: -webkit-linear-gradient(black,hsl(240, 1%, 64%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-bottom: 2px solid black;
@@ -173,11 +193,10 @@ button {
 
 #contact{
   font-size: 40px;
-  /* color: rgb(10, 10, 10); */
-  border-bottom: 2px solid black;
-  background: -webkit-linear-gradient(black, #eee);
+  background: -webkit-linear-gradient(black,hsl(240, 1%, 64%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid black;
 }
 #mail{
   padding: 10px;
