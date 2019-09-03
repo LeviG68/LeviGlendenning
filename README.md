@@ -1,31 +1,32 @@
 [Levi Glendenning](https://levig68.github.io/LeviGlendenning/) | [Glendenning.Levi@gmail.com](glendenning.levi@gmail.com) | [	www.linkedin.com/in/levi-glendenning](LinkedIn) | 720.412.1149
+***
 
 # Levi Glendenning - Full Stack Web Developer (MERN Stack)
-***
+
 *  Over a year of experience as a software engineer.
 * Full stack skill-set with a passion for back-end engineering.
 * Part-time teacher for Coding with Kids in Denver.
 * Past experience in transportation as a logistics analyst.
 
 # Education
-***
+
 University of Denver, Denver Colorado 
 Center for professional development
 Full-stack web Development MERN
 __August 2018__
 
 # Skills
-***
+
 * Architectural Pattern – Model View Controller, Server Side Rendering
 * Methodology –  Cross-platform Development, Object-Oriented Programming, and  Composition
 * UI – Mobile-first Design, Responsive Web Design
 
 # Tools
-***
+
 * React | HTML5 | CSS3 | JavaScript | Node.js | Express | Handlebars | Styled Components | Bootstrap | Axios | jQuery | AJAX | Bootstrap | Materialize | SQL | Sequelize | MongoDB | Express.Js | FireBase | Heroku | Git | GitHub | Python | PHP | Mongoose | Nightmare | Mocha | Chai | Test writing | Passport | HandleBars | Cheerio | Command Line | CS Fundamentals
 					
 # PROJECTS & APPLICATIONS
-***						
+					
 ### Giphy API		
 * Application linked to Giphy's API allowing users to enter a search term for creating a searchable subject for GIF to generate.		
 * Solo developer for the project.
@@ -43,23 +44,28 @@ __August 2018__
 * Built with: Handlebars/ learning templating with just pure JavaScript. SQL for its ability to handle structured data and its relational database abilities. Bootstrap for its ease of setting up fast and function. UI & HTML for its cross-functionality with Bootstrap and Handlebars, CSS for its design and ease of manipulation within HTML. Heroku for pull functional hosted websites and its strong integration languages with Node, SQL, JavaScript and GitHub.		
 * Solo developer for the project.
 * [https://warm-reef-40354.herokuapp.com/burger](https://warm-reef-40354.herokuapp.com/burger)
+  
 ### PMHQ
 * An application but for someone who owns income properties and manages tenant requests.		
 * Built with Bootstrap for a strong but quick and simple UI. Passport for sign-in and sign-up OAuth. SQL Simple and quick database setup along with Sequelize for a quicker setup. jQuery for event handling and manipulation, JavaScript for the interactive of the application and DOM manipulation. Tested in Mocha and Chia for test-case on both the server-side and client-side where strong, looking at edge cases for OAuth and database information.			
-* This was a group project that was done as a group of five.				
+* This was a group project that was done as a group of five.			
  * [https://vast-reef-36995.herokuapp.com/](https://vast-reef-36995.herokuapp.com/)  
 
 #  Experience
-***
- Coding with Kids Aug 2019 - Present
+
+ __Coding with Kids__ **Aug 2019 - Present**
 … Responsible for delivering the best lessons possible, engaging the children, helping those in need and challenging those who are ahead. But leave room for creativity and adjustments. designing in Scratch.
 
-Sherwin-Williams Paint Aug 2018 - Present
+__Sherwin-Williams Paint__ **Aug 2018 - Present**
 … As a Regional Driver responsible for safe and on-time pick-up and deliveries to our Sherwin-Williams retail stores. Covering Colorado, required to maintain accurate DOT trip logs, conduct vehicle inspections and comply with all DOT regulations. 
 
 # Additional Work Experience
 
 __PepsiCo.__ **2013 - 2018**
-__FedEx__** 2010- 2013**
-__Wakins & Shepard Trucking__** 2008 - 2010**
-__Western States Equipment Co.__** 2005 - 2008**
+
+
+__FedEx__ **2010- 2013**
+
+
+__Wakins & Shepard Trucking__ **2008 - 2010**
+
