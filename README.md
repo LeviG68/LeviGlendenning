@@ -10,10 +10,15 @@
 
 # Education
 
-University of Denver, Denver Colorado 
-Center for professional development
+**__University of Denver__**, Denver Colorado 
+__Center for professional development__
 Full-stack web Development MERN
+
 __August 2018__
+
+
+**__University of Montana__**, Missoula MT
+__B.S Business Administration__, Management & Marketing
 
 # Skills
 
@@ -53,19 +58,21 @@ __August 2018__
 
 #  Experience
 
- __Coding with Kids__ **Aug 2019 - Present**
-… Responsible for delivering the best lessons possible, engaging the children, helping those in need and challenging those who are ahead. But leave room for creativity and adjustments. designing in Scratch.
+ __Coding with Kids__ _Aug 2019 - Present_**
 
-__Sherwin-Williams Paint__ **Aug 2018 - Present**
-… As a Regional Driver responsible for safe and on-time pick-up and deliveries to our Sherwin-Williams retail stores. Covering Colorado, required to maintain accurate DOT trip logs, conduct vehicle inspections and comply with all DOT regulations. 
+Responsible for delivering the best lessons possible, engaging the children, helping those in need and challenging those who are ahead. But leave room for creativity and adjustments. designing in Scratch.
+
+__Sherwin-Williams Paint__ _Aug 2018 - Present_**
+
+As a Regional Driver responsible for safe and on-time pick-up and deliveries to our Sherwin-Williams retail stores. Covering Colorado, required to maintain accurate DOT trip logs, conduct vehicle inspections and comply with all DOT regulations. 
 
 # Additional Work Experience
 
-__PepsiCo.__ **2013 - 2018**
+__PepsiCo.__ _2013 - 2018_**
 
 
-__FedEx__ **2010- 2013**
+__FedEx__ _2010- 2013_**
 
 
-__Wakins & Shepard Trucking__ **2008 - 2010**
+__Wakins & Shepard Trucking__ _2008 - 2010_**
 
