@@ -1,37 +1,65 @@
-# Professional Portfolio
- 
- Please check out my protfolio at [Levi Glendenning](https://levig68.github.io/LeviGlendenning/).
+[Levi Glendenning](https://levig68.github.io/LeviGlendenning/) | [Glendenning.Levi@gmail.com](glendenning.levi@gmail.com) | [	www.linkedin.com/in/levi-glendenning](LinkedIn) | 720.412.1149
 
-[Levi Glendenning](https://levig68.github.io/LeviGlendenning/) | [Glendenning.Levi@gmail.com](glendenning.levi@gmail.com) | 720.412.1149
+# Levi Glendenning - Full Stack Web Developer (MERN Stack)
+***
+*  Over a year of experience as a software engineer.
+* Full stack skill-set with a passion for back-end engineering.
+* Part-time teacher for Coding with Kids in Denver.
+* Past experience in transportation as a logistics analyst.
 
-Alt-H1 Levi Glendenning - Full Stack Web Developer (MERN Stack)
-======
-..*  Over a year of experience as a software engineer.
-..* Full stack skill-set with a passion for back-end engineering.
-..* Part-time teacher for Coding with Kids in Denver.
-..* Past experience in transportation  as a logistics analyst.
-
-Alt-H1 Education
-======
-
+# Education
+***
 University of Denver, Denver Colorado 
 Center for professional development
-Full stack web Development MERN
+Full-stack web Development MERN
 __August 2018__
 
-Alt-H1 Skills
-======
-..* Architectural Pattern – Model View Controller, Server Side Rendering
-..* Methodology –  Cross-platform Development, Object-Oriented Programming, and  Composition
-..* Programming Language – JavaScript, CSS, HTML, PHP, Express.Js, HTML, React, SQL, and Python
-..* UI – Mobile-first Design, Responsive Web Design
+# Skills
+***
+* Architectural Pattern – Model View Controller, Server Side Rendering
+* Methodology –  Cross-platform Development, Object-Oriented Programming, and  Composition
+* UI – Mobile-first Design, Responsive Web Design
 
-Alt-H1 Tools
-======
-..* Frameworks - React, Node.js, Express, Handlebars, Styled Components, Bootstrap, Axios, jQuery, AJAX, Bootstrap, and Materialize.
-..* Back-end - SQL, MongoDB, Express, and FireBase.
-..* Graphic Editor - Adobe Lightroom, Adobe Photoshop, and Sketch.
-..* Other - Heroku, GitHub.
+# Tools
+***
+* React | HTML5 | CSS3 | JavaScript | Node.js | Express | Handlebars | Styled Components | Bootstrap | Axios | jQuery | AJAX | Bootstrap | Materialize | SQL | Sequelize | MongoDB | Express.Js | FireBase | Heroku | Git | GitHub | Python | PHP | Mongoose | Nightmare | Mocha | Chai | Test writing | Passport | HandleBars | Cheerio | Command Line | CS Fundamentals
+					
+# PROJECTS & APPLICATIONS
+***						
+### Giphy API		
+* Application linked to Giphy's API allowing users to enter a search term for creating a searchable subject for GIF to generate.		
+* Solo developer for the project.
+* Used jQuery for event handling and manipulation. JavaScript for the interactive of the application and DOM manipulation. Consumed the Giphy’s API to access the GIF’s along with other metadata.
+*  [https://levig68.github.io/GiphyAPI/](https://levig68.github.io/GiphyAPI/) 
+ 										
+### Dat[R] Application.		
+* A date night application that lets you seek out options for dinner and movie.
+* Built with Google Materialize for front-end users. Google Firebase for real-time data and OAuth2. JavaScript for DOM manipulation, object-oriented and control web page behavior. jQuery was used for its button animation and event handling.	
+* Group project with 4 people.		
+* [https://mtsglen.github.io/ProjectOne/](https://mtsglen.github.io/ProjectOne/)
+ 								
+### Burger Application.		
+* Users can create burgers & devour burgers, like a to-do list for burgers you like.	
+* Built with: Handlebars/ learning templating with just pure JavaScript. SQL for its ability to handle structured data and its relational database abilities. Bootstrap for its ease of setting up fast and function. UI & HTML for its cross-functionality with Bootstrap and Handlebars, CSS for its design and ease of manipulation within HTML. Heroku for pull functional hosted websites and its strong integration languages with Node, SQL, JavaScript and GitHub.		
+* Solo developer for the project.
+* [https://warm-reef-40354.herokuapp.com/burger](https://warm-reef-40354.herokuapp.com/burger)
+### PMHQ
+* An application but for someone who owns income properties and manages tenant requests.		
+* Built with Bootstrap for a strong but quick and simple UI. Passport for sign-in and sign-up OAuth. SQL Simple and quick database setup along with Sequelize for a quicker setup. jQuery for event handling and manipulation, JavaScript for the interactive of the application and DOM manipulation. Tested in Mocha and Chia for test-case on both the server-side and client-side where strong, looking at edge cases for OAuth and database information.			
+* This was a group project that was done as a group of five.				
+ * [https://vast-reef-36995.herokuapp.com/](https://vast-reef-36995.herokuapp.com/)  
 
-Alt-H1 Experience
-======
+#  Experience
+***
+ Coding with Kids Aug 2019 - Present
+… Responsible for delivering the best lessons possible, engaging the children, helping those in need and challenging those who are ahead. But leave room for creativity and adjustments. designing in Scratch.
+
+Sherwin-Williams Paint Aug 2018 - Present
+… As a Regional Driver responsible for safe and on-time pick-up and deliveries to our Sherwin-Williams retail stores. Covering Colorado, required to maintain accurate DOT trip logs, conduct vehicle inspections and comply with all DOT regulations. 
+
+# Additional Work Experience
+
+__PepsiCo.__ **2013 - 2018**
+__FedEx__** 2010- 2013**
+__Wakins & Shepard Trucking__** 2008 - 2010**
+__Western States Equipment Co.__** 2005 - 2008**
