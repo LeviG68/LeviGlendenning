@@ -1,4 +1,4 @@
-[Levi Glendenning](https://levig68.github.io/LeviGlendenning/) | [Glendenning.Levi@gmail.com](glendenning.levi@gmail.com) | [	www.linkedin.com/in/levi-glendenning](LinkedIn) | 720.412.1149
+[Levi Glendenning](https://levig68.github.io/LeviGlendenning/) | [Glendenning.Levi@gmail.com](glendenning.levi@gmail.com) | [LinkedIn](www.linkedin.com/in/levi-glendennin) | 720.412.1149
 ***
 
 # Levi Glendenning - Full Stack Web Developer (MERN Stack)
@@ -10,11 +10,10 @@
 
 # Education
 
-**__University of Denver__**, Denver Colorado 
+**__University of Denver__** Denver, Colorado 
 __Center for professional development__
-Full-stack web Development MERN
-
-__August 2018__
+Full-stack web Development *MERN*
+_August 2018_
 
 
 **__University of Montana__**, Missoula MT
@@ -58,21 +57,21 @@ __B.S Business Administration__, Management & Marketing
 
 #  Experience
 
- __Coding with Kids__ _Aug 2019 - Present_**
+ __Coding with Kids__ _Aug 2019 - Present_
 
 Responsible for delivering the best lessons possible, engaging the children, helping those in need and challenging those who are ahead. But leave room for creativity and adjustments. designing in Scratch.
 
-__Sherwin-Williams Paint__ _Aug 2018 - Present_**
+__Sherwin-Williams Paint__ _Aug 2018 - Present_
 
 As a Regional Driver responsible for safe and on-time pick-up and deliveries to our Sherwin-Williams retail stores. Covering Colorado, required to maintain accurate DOT trip logs, conduct vehicle inspections and comply with all DOT regulations. 
 
 # Additional Work Experience
 
-__PepsiCo.__ _2013 - 2018_**
+__PepsiCo.__ _2013 - 2018_
 
 
-__FedEx__ _2010- 2013_**
+__FedEx__ _2010- 2013_
 
 
-__Wakins & Shepard Trucking__ _2008 - 2010_**
+__Wakins & Shepard Trucking__ _2008 - 2010_
 
