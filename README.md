@@ -10,12 +10,12 @@
 
 # Education
 
-**__University of Denver__** Denver, Colorado 
-*_Center for professional development_*
+**__University of Denver__** Denver, Colorado |
+*_Center for professional development_* |
 Full-stack web Development *MERN*
 
-**__University of Montana__**, Missoula MT
-*_B.S Business Administration_*, Management & Marketing
+**__University of Montana__**, Missoula MT |
+*_B.S Business Administration_* |  Management & Marketing
 
 
 # Skills
