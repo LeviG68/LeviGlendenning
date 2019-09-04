@@ -11,12 +11,15 @@
 # Education
 
 **__University of Denver__** Denver, Colorado 
+
 __Center for professional development__
+
 Full-stack web Development *MERN*
 *August 2018*
 
 
 **__University of Montana__**, Missoula MT
+
 __B.S Business Administration__, Management & Marketing
 
 # Skills
